@@ -1,0 +1,13 @@
+div img{
+    height: 100%;
+    width: 45%;
+}
+
+div img.inline-image{
+    display: inline;
+}
+
+.image-container{
+    height: 135px;
+    width: 300px;
+}
